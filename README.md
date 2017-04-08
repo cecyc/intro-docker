@@ -10,7 +10,7 @@ Familiarity with command line recommended.
  - A text editor. We recommend Sublime Text 2 (free; available for Mac, PC, and Linux).
 
 ## Slides
-### Class 1
-
+[Class 1 slides](https://cecyc.github.io/intro-docker/class1.html#/)
 
 ### Class 2
+[Class 2 slides](https://cecyc.github.io/intro-docker/class2.html#/)
