@@ -12,5 +12,4 @@ Familiarity with command line recommended.
 ## Slides
 [Class 1 slides](https://cecyc.github.io/intro-docker/class1.html#/)
 
-### Class 2
 [Class 2 slides](https://cecyc.github.io/intro-docker/class2.html#/)
